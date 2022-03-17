@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-By submitting this report, you are agreeing that:
+By submitting this request, you are agreeing that:
 - [] This is not a duplicate issue.
 - [] This does not contain any sensitive information.
 
