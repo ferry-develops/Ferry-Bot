@@ -9,7 +9,7 @@ assignees: ''
 
 By submitting this report, you are agreeing that:
 - [] This is not a duplicate issue.
-- [] This is not a sercurity vulnerability.
+- [] This is not a security vulnerability.
 - [] This does not contain any sensitive information.
 
 **Platform:** Where does this bug occur? Bot or Website?
