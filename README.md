@@ -1,6 +1,8 @@
 # Ferry-Bot
 This repository is for reporting issues, suggesting features, and etc.
 
+**[Invite Ferry](https://ferry.cf/invite)**
+
 If you need support, we have some resources:
 - **[Docs](https://docs.ferry.cf)**
 - **[Ferry Discord](https://ferry.cf/support)**
