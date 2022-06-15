@@ -1,6 +1,8 @@
 <a href="https://top.gg/bot/941859797551177809">
   <img src="https://top.gg/api/widget/941859797551177809.svg">
 </a>
+<script src="https://ferry.instatus.com/widget/script.js">
+</script>
 
 # Ferry-Bot
 This repository is for reporting issues, suggesting features, and etc.
